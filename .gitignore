@@ -1,7 +1,22 @@
-﻿lms/
+﻿# Dependencies
 node_modules/
+server/node_modules/
+e-learning/node_modules/
+
+# Environment variables and secrets
 .env
 .env.*
-server/uploads/
+*.env
+**/.env
+**/.env.*
 server/.env
-server/node_modules/
+e-learning/.env
+
+# Frontend build output
+e-learning/dist/
+
+# Backend uploaded files
+server/uploads/
+
+# Optional: log files
+*.log
