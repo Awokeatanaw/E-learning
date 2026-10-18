@@ -1,4 +1,9 @@
 # 🎓 BIRUH AMIRO E-Learning Platform
+<h1 align="center">
+  <span style="color: #2563eb;">
+    E-Learning Management System
+  </span>
+</h1>
 
 **BIRUH AMIRO E-Learning Platform** is a full-stack Learning Management System (LMS) built with the MERN stack (MongoDB, Express.js, React, Node.js). Designed to connect students, educators, and administrators in a seamless digital learning environment, the platform supports course creation and multimedia streaming, interactive quizzes, progress tracking, local Ethiopian payment integration (**Chapa**), automated **PDF certificate generation**, and role-based access control powered by **Clerk**.
 
