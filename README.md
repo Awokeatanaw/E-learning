@@ -1,6 +1,6 @@
 # 🎓 BIRUH AMIRO E-Learning Platform
-<h1 align="center">
-  <span style="color: #2563eb;">
+<h1>
+  <span style="color: #0D9488;">
     E-Learning Management System
   </span>
 </h1>
@@ -10,6 +10,11 @@
 ---
 
 ## 📖 About the Project
+<h2>
+  <span style="color: #22C55E;">
+    About the Project
+  </span>
+</h2>
 
 BIRUH AMIRO provides an end-to-end online education ecosystem tailored for modern learners and instructors:
 - **Students** can browse and search courses, preview free lectures, purchase courses securely via **Chapa** (in ETB / Birr), stream video lectures (YouTube, Cloudinary authenticated video, or secure range-streamed local uploads), take course quizzes, track lecture-by-lecture progress, rate courses, and generate downloadable PDF certificates upon meeting completion criteria.
