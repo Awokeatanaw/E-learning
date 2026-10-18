@@ -323,7 +323,6 @@ Contributions are welcome and appreciated! To contribute to __BIRUH AMIRO E-Lear
 
 ## 📄 License
 
-This project is developed for the __BIRUH AMIRO E-Learning Platform__. All rights reserved.
-
 This project is licensed under the MIT License.
+
 You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of this software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
