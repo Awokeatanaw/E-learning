@@ -140,7 +140,7 @@ E-learning/
     │   └── syncUser.js                # Syncs Clerk users with local MongoDB User collection
     ├── server.js                      # Express app entry point (Port 5000)
     └── package.json
-
+```
 ---
 
 ## ⚙️ Installation & Setup
